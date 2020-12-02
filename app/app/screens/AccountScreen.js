@@ -28,7 +28,7 @@ export default function AccountScreen({navigation}) {
             <View style={styles.container}>
                 <ListItem 
                     title="Agne Urbaityte" 
-                    subTitle="agne.urbaityte@gmail.com"
+                    subTitle="agne.ur@mail.com"
                     image={require("../assets/girl_face.png")} />
             </View>
             <View style={styles.container}>
